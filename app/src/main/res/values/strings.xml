@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DashboardDesign</string>
+    <string name="logo_name">MAQAN</string>
+    <string name="name_user">KAREENA WIDAGDO</string>
+    <string name="maqpay">MaQPay - Rp 543,000</string>
+    <string name="kategori">Kategori</string>
+    <string name="traditional">Traditional</string>
+    <string name="fast_food">Fast Food</string>
+    <string name="drinks">Drinks</string>
+    <string name="meat">Meat</string>
+    <string name="seafood">Seafood</string>
+    <string name="bakery">Bakery</string>
+    <string name="voucher">Voucher</string>
+    <string name="terpopuler">Terpopuler</string>
+    <string name="lihat_semua">Lihat semua</string>
+</resources>
